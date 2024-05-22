@@ -169,10 +169,11 @@
   }
 
   #banner img {
-    position: absolute;
-    width: 280px;
-    margin-left: -81px;
-    margin-top: -82px;
+    display: none;
+    }
+
+    #info .mapa iframe {
+      width: 300px;
     }
 
   
