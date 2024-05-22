@@ -170,7 +170,11 @@
 
   #banner img {
     display: none;
-    }
+  }
+
+  .menu-servicos a li {
+    font-size: 11px;
+  }
 
     #info .info-top span{
       font-size: 15px;
