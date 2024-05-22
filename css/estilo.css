@@ -1,0 +1,130 @@
+
+
+/*configuração do header*/
+#header .img-logo {
+    height: 100px;
+    width: 150px;
+}
+
+#menu a:hover {
+    background-color: rgba(23, 104, 30, 0.514);
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+/*Configuração do banner*/
+
+#banner {
+    padding: 70px;
+    background-color: rgba(23, 104, 30, 0.329);
+    
+}
+
+#banner a {
+    color: #ffffff;
+}
+
+#banner a {
+    border: 1px solid #2c6b3a;
+    width: 140px;
+    padding: 10px;
+    color: #ffffff;
+    background-color: rgba(23, 104, 30, 0.514);
+}
+
+#banner a:hover{
+    background-color: transparent;
+    color: #191e1f;
+    cursor: pointer;
+}
+
+#banner p {
+    font-size: 18px;
+}
+
+#banner h1 {
+    font-weight: 600;
+    color: #191e1f;
+}
+
+#banner .img-box {
+    margin-left: 100px;
+}
+
+/*Configuração de serviços*/
+#servicos-titulo .titulo_servicos {
+    text-align: center;
+    margin: 20px;
+    color: rgb(23, 104, 30);
+    font-weight: 600;
+}
+
+#servicos a {
+    background-color: rgba(23, 104, 30, 0.514);
+}
+
+#servicos a:hover {
+    background-color: transparent;
+    color: #191e1f;
+    cursor: pointer;
+}
+
+/*Configuração de duvidas frequentes*/
+#duvidas {
+    color: rgb(23, 104, 30);
+}
+
+/*Configuração do footer*/
+#info {
+    color: rgb(23, 104, 30);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .info-top {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  
+  .telefones, .horarios {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    flex: 1;
+  }
+  
+  .telefones i, .horarios i, .mapa i {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .telefones span, .horarios span {
+    font-size: 18px;
+  }
+  
+  .telefones span:first-of-type, .horarios span:first-of-type {
+    font-weight: bold;
+  }
+  
+  .mapa {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .map_container {
+    margin-top: 10px;
+    width: 100%;
+    max-width: 600px;
+  }
+
+  #footer p {
+    color: rgb(23, 104, 30);
+  }

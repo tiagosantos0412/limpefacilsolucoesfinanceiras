@@ -1,0 +1,10 @@
+:root {
+    --max-width-size: 1920px;
+
+    --color-1: #ffffff;
+    --color-2: rgba(23, 104, 30, 0.534);
+    --color-3: #191e1f;
+    --texto:   rgb(23, 104, 30);
+    --texto2:  #6bb7be;
+    --border:  1px solid #2c6b3a;
+}
