@@ -172,7 +172,12 @@
     display: none;
     }
 
+    #info .info-top span{
+      font-size: 15px;
+    }
+
     #info .mapa iframe {
+      margin: auto;
       width: 300px;
     }
 
