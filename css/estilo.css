@@ -59,6 +59,43 @@
     font-weight: 600;
 }
 
+.menu-servicos {
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 100px;
+}
+
+.menu-servicos ul {
+  display: flex;
+  padding: 10px;
+  
+}
+
+.menu-servicos ul li {
+  padding: 10px;
+  list-style: none;
+  border: 1px solid #191e1f;
+  text-align: center;
+  margin-right: 5px;
+  background-color: rgba(23, 104, 30, 0.514);
+  
+}
+
+.menu-servicos a {
+  color: #ffffff;
+}
+
+.menu-servicos ul li:hover {
+  background-color: transparent;
+  transition: 0.5s;
+}
+
+.menu-servicos a:hover {
+    background-color: transparent;
+    color: #191e1f;
+    cursor: pointer;
+}
+
 #servicos a {
     background-color: rgba(23, 104, 30, 0.514);
 }
