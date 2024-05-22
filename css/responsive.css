@@ -176,6 +176,10 @@
     font-size: 11px;
   }
 
+  #servicos .img-box img{
+    width: 300px
+  }
+
     #info .info-top span{
       font-size: 15px;
     }

@@ -77,11 +77,13 @@
   border: 1px solid #191e1f;
   text-align: center;
   margin-right: 5px;
+  height: auto;
   background-color: rgba(23, 104, 30, 0.514);
   
 }
 
 .menu-servicos a {
+  padding: auto;
   color: #ffffff;
 }
 
