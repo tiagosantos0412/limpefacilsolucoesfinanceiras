@@ -76,6 +76,7 @@
 
 /*Configuração do footer*/
 #info {
+    background-color: #191e1f1c;
     color: rgb(23, 104, 30);
     display: flex;
     flex-direction: column;
