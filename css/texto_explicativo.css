@@ -8,7 +8,8 @@
     text-align: justify; /* Adicionando justificação ao texto */
 }
 
-.texto_explicativo h2{
+.texto_explicativo h2,
+.subtitulo{
     text-align: center;
 }
 .texto_explicativo p {
