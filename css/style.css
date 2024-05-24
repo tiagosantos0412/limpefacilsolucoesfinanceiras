@@ -209,6 +209,10 @@ a:focus {
   margin-right: 5px;
 }
 
+.quote_btn-container a:hover {
+  padding: 5px;
+}
+
 /*end header section*/
 /* slider section */
 .slider_section {

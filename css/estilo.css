@@ -6,6 +6,11 @@
     width: 150px;
 }
 
+#btn-login {
+  padding: 5px;
+}
+
+
 #menu a:hover {
     background-color: rgba(23, 104, 30, 0.514);
     border-radius: 10px;
